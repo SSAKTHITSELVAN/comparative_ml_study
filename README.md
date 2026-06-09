@@ -1,1 +1,1 @@
-# comparative_ml_study
+**A Comparative Study of Machine Learning Models for Short-Term Stock Price Direction Prediction Using Public Market Data** is a fully open access journal. All content is published under the Creative Commons Attribution 4.0 International License (CC BY 4.0). Users are free to read, download, copy, distribute, print, search, or link to the full texts of articles, as well as crawl them for indexing, pass them as data to software, or use them for any other lawful purpose.
